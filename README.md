@@ -1,2 +1,2 @@
-# 20pk
-这是测试
+# FaceRecognitionProjects
+参与中心人工智能比赛-人脸认证项目
